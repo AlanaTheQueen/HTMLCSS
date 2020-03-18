@@ -1,0 +1,54 @@
+<style>
+    #body {
+        background_color: #FF66FF;
+    }
+
+    #logo {
+        float: left;
+        width: 150px;
+    }
+
+    .title {
+        display: inline;
+        color: #330033;
+        font-family: 'Baloo Chettan 2', cursive;
+    }
+
+    #main_page {
+        background_color: #99CCFF;
+    }
+
+    section:hover {
+        background_color: #FFFFFF;
+    }
+
+    .article_title {
+        color: #000066;
+        font-family: 'Baloo Chettan 2', cursive;
+    }
+
+    .paragraph {
+        color: #000000;
+        font-family: 'Sen', sans-serif;
+    }
+
+    #copyright {
+        font_size: 30px;
+    }
+
+    a:link {
+        color: #990000;
+    }
+
+    a:visited {
+        color: #CC00FF;
+    }
+
+    a:hover {
+        color: #0000FF;
+    }
+
+    a:active {
+        color: #FF6600;
+    }
+</style>

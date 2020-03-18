@@ -2,19 +2,21 @@
 <html>
     <head>
         <title> Art Organisation </title>
+        <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan+2&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Sen&display=swap" rel="stylesheet">
     </head>
 
-    <body>
+    <body id="body">
         <header>
-            <image src="https://cdn.logojoy.com/wp-content/uploads/2018/05/30143717/146.png" />
-            <h1> Art Organisation </h1>
-            <h3> To Help You Liberate The Artist Within You </h3>
+            <image id="logo" src="https://cdn.logojoy.com/wp-content/uploads/2018/05/30143717/146.png" />
+            <h1 class="title"> Art Organisation </h1>
+            <h3 class="title"> To Help You Liberate The Artist Within You </h3>
         </header>
 
-        <article>
+        <article id="main_page">
             <section>
-                <h5> How to become a talented artist? </h5>
-                <p> When people see a talented artist drawing often remark that they wish they could draw better. The simplest step many people haven’t realise is to "Draw". A lot of people who should don’t consider drawing to be all that important. They’re designers or photographers and don’t understand the technical and observational acumen that results from drawing and how it will enhance their design skill or photographic eye.
+                <h5 class="article_title"> How to become a talented artist? </h5>
+                <p class="paragraph"> When people see a talented artist drawing often remark that they wish they could draw better. The simplest step many people haven’t realise is to "Draw". A lot of people who should don’t consider drawing to be all that important. They’re designers or photographers and don’t understand the technical and observational acumen that results from drawing and how it will enhance their design skill or photographic eye.
 
                 Drawing slows you down. When you draw, you’re taking time to look at something, to analyse it and reproduce it. You’re not simply setting up to capture it and move on to the next image. You become very aware of form, proportion and colour. You come to understand light and shadow and how they reveal and define form. This awareness translates to any visual pursuit.
 
@@ -22,15 +24,15 @@
                 </p>
             </section>
             <section>
-                <h5> Different forms of art </h5>
-                <p>It is through art that we can communicate to the world our inner feelings and our creativity that only exists within our mind. Art has many forms; from visual arts to performing arts. Many great civilizations and cultures are perceived to be great because they were advanced in the arts. The strength and culture of an entire nation or civilization rests upon how rich the art of that particular country or civilization is. There are different forms of art like painting, sculpture, literature, architecture, music, dance, theater, photography and films.
+                <h5 class="article_title"> Different forms of art </h5>
+                <p class="paragraph">It is through art that we can communicate to the world our inner feelings and our creativity that only exists within our mind. Art has many forms; from visual arts to performing arts. Many great civilizations and cultures are perceived to be great because they were advanced in the arts. The strength and culture of an entire nation or civilization rests upon how rich the art of that particular country or civilization is. There are different forms of art like painting, sculpture, literature, architecture, music, dance, theater, photography and films.
 
                 Whatever form of art we see, its main characteristic is that it is pleasing to the senses. It expresses the feelings and emotions of the artist and it can be interpreted in different ways by different people. Any type of art, essentially tells a story. It is a form of communication with another human being that is indirect but deeply profound. Art has a tendency to deeply move our souls and most masterpieces that we see in museums are a silent testimony to that. <a href= "https://arthearty.com/different-forms-of-art"> read more </a>
                 </p>
             </section>
             <section>
-                <h5> The most common tools used in art </h5>
-                <p>To take mixed media art to its heights, you have to be a bit of an adventurer — a tinkerer — a risk taker. Rae Missigman is all the above when it comes to her art. But she’s a detective as well. She sleuths out the common tools and everyday objects we walk by every day that are perfect for making art marks.
+                <h5 class="article_title"> The most common tools used in art </h5>
+                <p class="paragraph">To take mixed media art to its heights, you have to be a bit of an adventurer — a tinkerer — a risk taker. Rae Missigman is all the above when it comes to her art. But she’s a detective as well. She sleuths out the common tools and everyday objects we walk by every day that are perfect for making art marks.
 
                 Rae shares the essential tools she’s discovered for mark-making in her book, Paint-Play-Explore: Expressive Mark-Making Techniques in Mixed Media. Discover how you can invent and reinvent endlessly with Rae’s top found objects and common tools shared here. <a href= "https://www.artistsnetwork.com/art-mediums/mixed-media/common-tools-mixed-media-art/"> read more </a>
                 </p>
@@ -38,7 +40,7 @@
         </article>
 
         <footer>
-            <p> all copy right to Art Organisation </p>
+            <p id="copyright"> all copy right to Art Organisation </p>
             <a href="https://www.google.com/search?q=federation+house+manchester&oq=federation&aqs=chrome.2.69i57j0l7.8692j0j4&sourceid=chrome&ie=UTF-8"> contact us </a>
             <a href="https://www.google.com/maps/place/Federation+House/@53.486059,-2.242365,17z/data=!3m1!4b1!4m5!3m4!1s0x487bb1c79ec42665:0xb5b47150c72a31fc!8m2!3d53.486059!4d-2.2401763"> find our offices </a>
         </footer>
